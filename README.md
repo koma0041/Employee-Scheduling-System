@@ -1,8 +1,5 @@
 # Employee-Scheduling-System
 
-Great — thanks for sharing your notes! I’ll turn your sketch into a **clear description of the website** and then give you a **layout structure (like a sitemap + wireframe idea)**.
-
----
 
 ## 📌 Website Description: Employee Scheduling System
 
